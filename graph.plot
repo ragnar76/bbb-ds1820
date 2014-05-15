@@ -16,7 +16,7 @@ set grid
 # what to to with the data
 set xdata time
 set timefmt "%d.%m.%Y_%H:%M"
-set format x "%H:%M"
+set format x "%d.%m.%Y_%H:%M"
 set xrange [*:*]
 set yrange [*:*]
 
