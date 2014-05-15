@@ -13,6 +13,10 @@ set xlabel "Messzeitpunkt"
 
 set grid
 
+set xtics border in scale 1,0.5 nomirror rotate by -45  offset character 0, 0, 0 autojustify
+set xtics  norangelimit font ",8"
+set xtics   ()
+
 # what to to with the data
 set xdata time
 set timefmt "%d.%m.%Y_%H:%M"
