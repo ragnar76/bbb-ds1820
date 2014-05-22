@@ -2,11 +2,11 @@
 
 import time, datetime
 
-# w1="/sys/bus/w1/devices/10-000802bc1696/w1_slave"
-# w2="/sys/bus/w1/devices/10-000802bc2761/w1_slave"
+w1="/sys/bus/w1/devices/10-000802bc1696/w1_slave"
+w2="/sys/bus/w1/devices/10-000802bc2761/w1_slave"
 
-w1="dummy.txt"
-w2="dummy-fail.txt"
+# w1="dummy.txt"
+# w2="dummy-fail.txt"
 
 raw1 = open(w1, "r").read()
 raw2 = open(w2, "r").read()
