@@ -28,4 +28,4 @@ set format x "%d.%m.%Y_%H:%M"
 set xrange [*:*]
 set yrange [*:*]
 
-plot 'temp_1.log' using 1:2 title " Innen" with lines, 'temp_2.log' using 1:2 title " Außen" with lines
+plot '/media/usb/temp_1.log' using 1:2 title " Innen" with lines, '/media/usb/temp_2.log' using 1:2 title " Außen" with lines
