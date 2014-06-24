@@ -1,0 +1,32 @@
+bbb-ds1820
+==========
+
+General Information:
+	Scripts in PHP and Python to read a DS1820 Temperaturesensor with a
+	Beaglebone Black (http://beagleboard.org/Products/BeagleBone+Black). In
+	the long term, it will grow to a homemade, opensource/openhardware
+	weatherstation using an Anemometer, humidity sensor, light sensor
+	and other stuff.
+
+Copyright:
+	As long as not otherwise noted, all my stuff here is cc by-nc-sa
+	(https://creativecommons.org/licenses/by-nc-sa/4.0/ ) which means:
+	
+	* Attribution — You must give appropriate credit, provide a link to
+	  the license, and indicate if changes were made. You may do so in any
+	  reasonable manner, but not in any way that suggests the licensor
+	  endorses you or your use
+	
+	* NonCommercial — You may not use the material for commercial
+	  purposes.
+	
+	* ShareAlike — If you remix, transform, or build upon the material,
+	  you must distribute your contributions under the same license as
+	  the original.
+	
+Coding Style:
+	I'm not the best coder at all. If you find some bugs or have some
+	ideas or suggestions, feel free to write me an email to :
+	
+	ragnar[at]chaosdorf.de
+
