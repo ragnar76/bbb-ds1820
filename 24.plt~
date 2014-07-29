@@ -43,7 +43,7 @@ set xlabel ''
 # what to to with the data
 set xdata time
 set timefmt "%d.%m.%Y_%H:%M"
-set format x ""
+format x ""
 
 set xrange [*:*]
 set yrange [*:*]
